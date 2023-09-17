@@ -18,3 +18,20 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 - Relation between age and gender based on number of orders.
 - Which Channel is contributing maximum to the sales?
 - Highest selling category?
+
+## Process
+
+### Data Cleaning
+
+- Verify data for any missing values and anomalies, and sort out the same.
+- Made sure data is consistent and clean with respect to data type, data format and values used.
+
+### Methodology
+
+- Created pivot tables according to the questions asked.
+- Created pivot charts based on the pivot tables.
+- Merge all pivot charts into one dashboard and applied slicer to make dashboard interactive and dynamic.
+
+## Dashboard
+
+<img src="https://github.com/GaurabKundu1/Python-for-Everybody/assets/86102231/8eb12b29-f13d-4660-ae0d-4c7e8d73e7ff">
